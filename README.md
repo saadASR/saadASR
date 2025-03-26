@@ -11,6 +11,17 @@
 
 ### Tech Stack 🛠
 ### Mobile Development
+
+#### Mobile Development
+- Android:
+  - Kotlin
+  - Android SDK
+  - Android Studio
+  - XML/JetPack
+  - retrofit
+  - FireBase
+  - SQLite
+    
 #### Web Development
 - Backend:
   - PHP
@@ -24,15 +35,6 @@
   - Bootstrap
   - Materialize
 
-#### Mobile Development
-- Android:
-  - Kotlin
-  - Android SDK
-  - Android Studio
-  - XML/JetPack
-  - retrofit
-  - FireBase
-  - SQLite
 
 ### Development Tools 🔧
 - IDE/Editors: Android Studio, VS Code, PHPStorm, IntelliJ IDEA
