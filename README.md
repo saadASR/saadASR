@@ -21,6 +21,8 @@
   - retrofit
   - FireBase
   - SQLite
+  - Dart
+  - Flutter (beginner)
     
 #### Web Development
 - Backend:
